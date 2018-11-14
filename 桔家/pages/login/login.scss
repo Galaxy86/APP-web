@@ -1,0 +1,16 @@
+page-login {
+  $width:100px;
+  ion-content{
+      background: url(../assets/imgs/登录背景.png);
+      background-size: cover;
+      .logo{
+          img{
+              width: 100%;
+          }
+          width: 100px;
+          height: 100px;
+          margin:0 auto;
+          margin-top: 90px;
+      }
+  }
+}
